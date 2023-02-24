@@ -94,7 +94,7 @@ main h2.indented-heading {
   background-color: var(--color-secondary-light);
   font-weight: 800;
 
-  max-width: 400px;
+  width: fit-content;
   padding: var(--width-16) var(--width-32);
   border-bottom: solid var(--width-8) var(--color-secondary-dark);
   margin: 0;
